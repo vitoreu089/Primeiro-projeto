@@ -41,7 +41,8 @@ body * {
 #container {
   color: white;
   /* borda*/
-  width: 360px; /* largura */
+  width: 100%; /* largura */
+  max-width: 580px;
 
   margin: auto; /* deixa a margem no automatico */
 
